@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.0.2\2d956522c556caeb35148445ecd059ebe67331f6\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d956522c556caeb35148445ecd059ebe67331f6">
+        <dex dex="F:\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\org.eclipse.paho.android.service-1.0.2-8125caa30bf8a6bf2d2b0042291aa0d269ca3f93.jar" />
+    </item>
+    <item
+        jar="F:\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="F:\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-6e6663c15b521eea185cdd654f2d74ac5dca8d64.jar" />
+    </item>
+    <item
+        jar="F:\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="F:\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\org.eclipse.paho.client.mqttv3-1.0.2-e4fada9254d62a95e6d92124f29dde4cd92b1149.jar" />
+    </item>
+
+</items>
